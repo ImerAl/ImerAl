@@ -4,5 +4,5 @@
 
 &nbsp;***About me***
 
-I am a AI student, currently almost at the end of my master degree. I am expanding my knowledge in ML, DP and Data science, and I work as a Statician for data recolection in sports events. However I'm looking for a job in Data Science or AI field.
+I am an AI Master’s student nearing the completion of my degree, with a strong focus on Machine Learning, Deep Learning, and Data Science. Currently, I work as a Sports Statistician specializing in real-time data collection. I am now seeking to transition into a Data Science or AI role where I can apply my analytical background and expertise in predictive modeling.
 - 📫 Reach out to me at: <a href="imeralfred@gmail.com">imeralfred@gmail.com</a>
